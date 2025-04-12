@@ -1,0 +1,31 @@
+{
+    "id": "B055104A",
+    "path": "~/github/ess-330-paper-project/index.qmd",
+    "project_path": "index.qmd",
+    "type": "quarto_markdown",
+    "hash": "4153025405",
+    "contents": "",
+    "dirty": false,
+    "created": 1741897686684.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "94,405",
+        "scrollLine": "92",
+        "rmdVisualModeLocation": "248:123"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1744418662,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1744418662439,
+    "read_only": false,
+    "read_only_alternatives": []
+}

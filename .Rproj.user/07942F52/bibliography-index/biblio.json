@@ -1,0 +1,106 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1093/comjnl/27.2.97",
+            "ISSN": "0010-4620",
+            "URL": "https://doi.org/10.1093/comjnl/27.2.97",
+            "author": [
+                {
+                    "family": "Knuth",
+                    "given": "Donald E."
+                }
+            ],
+            "container-title": "Comput. J.",
+            "id": "knuth84",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1984,
+                        5
+                    ]
+                ]
+            },
+            "page": "97-111",
+            "publisher": "Oxford University Press, Inc.",
+            "publisher-place": "USA",
+            "title": "Literate programming",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "DOI": "https://doi.org/10.1007/s10584-017-1899-y",
+            "author": [
+                {
+                    "family": "Gergel",
+                    "given": "Diana R"
+                },
+                {
+                    "family": "Nijssen",
+                    "given": "Bart"
+                },
+                {
+                    "family": "Abatzoglou",
+                    "given": "John T"
+                },
+                {
+                    "family": "Lettenmaier",
+                    "given": "Dennis P"
+                },
+                {
+                    "family": "Stumbaugh",
+                    "given": "Matt R"
+                }
+            ],
+            "container-title": "Clim. Change",
+            "id": "Gergel2017-vr",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        3
+                    ]
+                ]
+            },
+            "page": "287-299",
+            "publisher": "Springer Science; Business Media LLC",
+            "title": "Effects of climate change on snowpack and fire potential in the western USA",
+            "type": "article-journal",
+            "volume": "141"
+        },
+        {
+            "DOI": "10.3389/feart.2022.970981",
+            "ISSN": "2296-6463",
+            "URL": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.970981",
+            "author": [
+                {
+                    "family": "Irannezhad",
+                    "given": "Masoud"
+                },
+                {
+                    "family": "Ronkanen",
+                    "given": "Anna-Kaisa"
+                },
+                {
+                    "family": "Malekian",
+                    "given": "Arash"
+                }
+            ],
+            "container-title": "Frontiers in Earth Science",
+            "id": "irannezhad2022snowpack",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "title": "Editorial: Climate impacts on snowpack dynamics",
+            "title-short": "Editorial",
+            "type": "article-journal",
+            "volume": "10"
+        }
+    ],
+    "project_biblios": []
+}
