@@ -1,5 +1,5 @@
 ---
-title: ESS330 Project Intro & Methods
+title: Change in RMNP Average Snowpack with Annual Temperatures
 authors:
   - name: Caleb Cripe
     affiliation: Colorado State University
