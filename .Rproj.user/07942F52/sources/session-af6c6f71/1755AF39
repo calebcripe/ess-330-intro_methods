@@ -1,26 +1,26 @@
 {
-    "id": "9D371817",
+    "id": "1755AF39",
     "path": "~/github/ess-330-paper-project/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "2648565614",
+    "hash": "1827270465",
     "contents": "",
     "dirty": false,
-    "created": 1741897687196.0,
+    "created": 1744420233123.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,13",
+        "cursorPosition": "8,7",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1744418471,
+    "lastKnownWriteTime": 1744422657,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1744418471623,
+    "last_content_update": 1744422657945,
     "read_only": false,
     "read_only_alternatives": []
 }

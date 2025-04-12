@@ -4,6 +4,7 @@ project:
 
 manuscript:
   article: index.qmd
+  notebooks: false
 
 format:
   html:

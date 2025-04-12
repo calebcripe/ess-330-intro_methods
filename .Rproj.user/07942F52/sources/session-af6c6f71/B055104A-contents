@@ -8,15 +8,13 @@ authors:
   - name: Caitlin Rasbid
     affiliation: Colorado State University
     corresponding: false
-bibliography: references.bib
-csl: apa-6th-edition.csl
-format: html
 execute: 
   echo: true
+bibliography: references.bib
+csl: apa-6th-edition.csl
 ---
 
 ## Background
-
 The issue of climate change has caused regime alterations across aspects of ecosystems, impacting ecosystems functioning and environmental services we utilize. Especially in the Western US, we rely on snowpack that accumulates during the winter to provide water for the drier months of the year, which means that decreased snowpack results in scarcity. Globally, snowpack substantially contributes to the livelihoods of over a billion people, who are both directly and indirectly dependent on meltwater resources. (@irannezhad2022snowpack) Decreased annual snowpack can have adverse impacts on fire conditions, making wildfires that start more dangerous and difficult to control. Reduced meltwater, soil moisture, and fuel moisture can greatly increase fire potential in forest systems, which we have already begun to see across the West. (@Gergel2017-vr) These factors increase the need for snowpack monitoring so urban populations are able to recognize when droughts are likely to occur and when fire risk is higher than average.
 
 ## Data
